@@ -1,0 +1,6 @@
+-masses
+-collision with obstacles
+-bullets thing
+-music
+-user input
+-kill meteorites
